@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Meaapp</string>
+    <string name="mea_slogan">The carrier of dreams</string>
+    <string name="mile_balance">Cedar Miles: 999999 Miles</string>
+    <string name="location_city">Beirut, Lebanon</string>
+    <string name="upper_banner_text">Travel from: </string>
+    <string name="mea_plane_img">mea plane img</string>
+    <string name="blue_banner">blue banner</string>
+    <string name="book_trip">Book a Trip</string>
+    <string name="ist">Istanbul</string>
+    <string name="amm">Amman</string>
+    <string name="start_from">Starting from</string>
+    <string name="amm_price">$ 299</string>
+    <string name="ist_price">$ 199</string>
+    <string name="upcoming_flight_text">Upcoming flights</string>
+    <string name="open_check_in">Check-in for your flight to </string>
+    <string name="check_in_des">Beirut on June 13th 2024</string>
+    <string name="need_help">Need help?</string>
+
+</resources>
