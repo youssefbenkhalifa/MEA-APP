@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Meaapp</string>
+    <string name="app_name">MEA</string>
     <string name="mea_slogan">The carrier of dreams</string>
     <string name="mile_balance">Cedar Miles: 999999 Miles</string>
     <string name="location_city">Beirut, Lebanon</string>
@@ -16,5 +16,50 @@
     <string name="open_check_in">Check-in for your flight to </string>
     <string name="check_in_des">Beirut on June 13th 2024</string>
     <string name="need_help">Need help?</string>
+    <string name="round_trip">Round Trip</string>
+    <string name="one_way">One Way</string>
+    <string name="multi_city">Multi City</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string-array name="airport_codes_array">
+        <item>BEY</item>
+        <item>KBL</item>
+        <item>BRU</item>
+        <item>LCA</item>
+        <item>CPH</item>
+        <item>CAI</item>
+        <item>CDG</item>
+        <item>DUS</item>
+        <item>FRA</item>
+        <item>ACC</item>
+        <item>ATH</item>
+        <item>BGW</item>
+        <item>BSR</item>
+        <item>EBL</item>
+        <item>NJF</item>
+        <item>MXP</item>
+        <item>FCO</item>
+        <item>ABJ</item>
+        <item>AMM</item>
+        <item>KWI</item>
+        <item>LOS</item>
+        <item>DOH</item>
+        <item>DMM</item>
+        <item>JED</item>
+        <item>RUH</item>
+        <item>MAD</item>
+        <item>GVA</item>
+        <item>IST</item>
+        <item>AUH</item>
+        <item>DXB</item>
+        <item>LHR</item>
+        <item>NCE</item>
+        <item>MED</item>
+    </string-array>
+    <string name="dep">Departure</string>
+    <string name="arr">Arrival</string>
+    <string name="nb_pass">Passengers</string>
+    <string name="search">Search Flights</string>
+    <string name="no_account">Don\'t have an account? Sign Up!</string>
 
 </resources>
