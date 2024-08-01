@@ -40,7 +40,7 @@ Welcome to the MEA Airline Booking App! This application allows users to book fl
     - Create a new user profile or log in with existing credentials.
 3. **Book a Flight:**
     - Enter flight details such as destination, dates, and passenger information.
-    - Choose from available flight options and proceed to payment.
+    - Choose from available flight options and confirm.
 4. **AI Chatbot Assistance:**
     - Access the AI chatbot from the main menu for help with bookings, questions, or any issues.
 5. **Manage Bookings:**
