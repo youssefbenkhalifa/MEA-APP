@@ -1,6 +1,6 @@
 ﻿# MEA Airline Booking App
 
-Welcome to the MEA Airline Booking App! This application allows users to book flights with Middle East Airlines (MEA), specifically Air Liban, through an intuitive interface. It utilizes an AI chatbot to assist with booking and customer service inquiries.
+Welcome to the MEA Airline Booking App! This application allows users to book flights with Middle East Airlines (MEA), Air Liban, through an intuitive interface. It utilizes an AI chatbot to assist with booking and customer service inquiries.
 
 ## Features
 
