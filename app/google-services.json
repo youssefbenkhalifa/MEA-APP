@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026817582164",
+    "project_id": "mea-app-6b8f8",
+    "storage_bucket": "mea-app-6b8f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026817582164:android:934fbcbe904945df6639c1",
+        "android_client_info": {
+          "package_name": "com.example.meaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApiWU_QqAeNcP801occIQ5JnqASPKh_xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

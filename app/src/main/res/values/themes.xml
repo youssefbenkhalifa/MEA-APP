@@ -6,6 +6,7 @@
     </style>
 
     <style name="Theme.Meaapp" parent="Base.Theme.Meaapp" />
+
     <style name="roundedImageView">
         <item name="cornerFamily">rounded</item>
         <item name="cornerSize">50%</item>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="start"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@color/black"
+    android:elevation="8dp"
+    app:cardCornerRadius="8dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="bot message"
+            android:id="@+id/idTVBot"
+            android:textColor="@color/white"
+            android:layout_margin="5dp"
+            android:padding="3dp"
+            android:gravity="center"
+            >
+        </TextView>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

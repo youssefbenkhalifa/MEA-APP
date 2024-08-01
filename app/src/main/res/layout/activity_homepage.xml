@@ -355,15 +355,15 @@
                             app:layout_constraintStart_toStartOf="parent"
                             app:layout_constraintTop_toTopOf="parent" />
 
-                        <TextView
+                        <EditText
                             android:id="@+id/textView10"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="187dp"
+                            android:layout_height="35dp"
                             android:layout_marginStart="16dp"
                             android:layout_marginEnd="127dp"
                             android:layout_marginBottom="7dp"
                             android:fontFamily="@font/sora_semibold"
-                            android:text="@string/check_in_des"
+                            android:text="Booking Reference"
                             android:textSize="14dp"
                             app:layout_constraintBottom_toBottomOf="parent"
                             app:layout_constraintEnd_toEndOf="parent"
@@ -382,8 +382,10 @@
                             android:contentDescription="arrow"
                             app:layout_constraintBottom_toBottomOf="parent"
                             app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintHorizontal_bias="0.964"
                             app:layout_constraintStart_toEndOf="@+id/textView9"
                             app:layout_constraintTop_toTopOf="parent"
+                            app:layout_constraintVertical_bias="1.0"
                             app:srcCompat="@drawable/arrow" />
 
                     </androidx.constraintlayout.widget.ConstraintLayout>
