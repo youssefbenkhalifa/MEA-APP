@@ -22,7 +22,7 @@ Welcome to the MEA Airline Booking App! This application allows users to book fl
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/mea-airline-booking-app.git
+    git clone https://github.com/youssefbenkhalifa/MEA-APP.git
     ```
 2. **Open the project in Android Studio:**
     - Select `File` -> `Open...` and navigate to the project directory.
